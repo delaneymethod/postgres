@@ -1,3 +1,3 @@
 # Postgres
 
-A light-weight Postgres container for Docker.
+A light-weight Postgres 9.5 container for Docker.
