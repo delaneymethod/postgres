@@ -1,3 +1,3 @@
-FROM postgres:10
+FROM postgres:13
 
 MAINTAINER Sean Delaney <hello@delaneymethod.com>
